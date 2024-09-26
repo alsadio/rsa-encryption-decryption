@@ -1,0 +1,31 @@
+Input/Output 1
+Enter the prime numbers, p and q (seperated by space): 11 17
+p: 11, q: 17
+Calculating RSA values ...
+
+Public RSA key is (3, 187)
+Private RSA key is (107, 187)
+
+Enter the plaintext message m (an integer): 5
+
+Encrypting m...
+The ciphertext c is 125
+
+Decrypting c...
+The plaintext m is 5
+
+Input/Output 2
+Enter the prime numbers, p and q (seperated by space): 7 13
+p: 7, q: 13
+Calculating RSA values ...
+
+Public RSA key is (5, 91)
+Private RSA key is (29, 91)
+
+Enter the plaintext message m (an integer): 20
+
+Encrypting m...
+The ciphertext c is 76
+
+Decrypting c...
+The plaintext m is 20
